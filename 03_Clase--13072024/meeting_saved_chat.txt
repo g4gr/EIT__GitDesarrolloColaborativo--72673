@@ -1,0 +1,134 @@
+15:01:49 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Hola !
+	Como andan ?
+	
+	Arrancamos en 4 min.
+15:01:55 From Nicolás Fermín López-978039 To Everyone:
+	buenas, como andan?
+15:02:01 From Suarez Ivan To Everyone:
+	hola buenas
+15:02:10 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Hola Ana, buenas tardes!
+	Como estas ?
+	
+	Gracias de antemano por el soporte en la clase de hoy
+15:02:21 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Cuando puedas, me asignas los roles de co-host porfa ?
+15:02:32 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Reacted to "buenas, como andan?" with 👋🏽
+15:02:34 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Reacted to "hola buenas" with 👋🏽
+15:02:49 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Muchas gracias!
+15:03:04 From Ana Vilariño- Academic assistant To Gabriel Agustin Gonzalez Romero-871798(direct message):
+	Hola Gabriel, ya tenes los permisos
+15:03:16 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Reacted to "Hola Gabriel, ya ten..." with 🩵
+15:03:16 From Ana Vilariño- Academic assistant To Gabriel Agustin Gonzalez Romero-871798(direct message):
+	cualquier cosa que necesites avisame. Buena jornada
+15:03:28 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Replying to "cualquier cosa que n..."
+	
+	Muchas gracias!
+15:03:59 From José Luis Villaronga To Everyone:
+	Hola que tal
+15:05:09 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Reacted to "Hola que tal" with 👋🏽
+15:05:13 From José Luis Villaronga To Everyone:
+	Bien
+15:06:10 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	https://discord.gg/8knRUeyG
+15:07:13 From José Luis Villaronga To Everyone:
+	Hola
+15:07:18 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Reacted to "Hola" with 👋🏽
+15:07:38 From José Luis Villaronga To Everyone:
+	Si por ahora
+15:07:51 From José Luis Villaronga To Everyone:
+	Pasame la invitación también si podes
+15:20:50 From José Luis Villaronga To Everyone:
+	Esto implicaría en un equipo tener además del servidor de producción uno de prueba para el equipo de desarrollo ?
+15:21:50 From José Luis Villaronga To Everyone:
+	Se puede virtualizar ...
+15:24:51 From José Luis Villaronga To Everyone:
+	Si gracias
+15:43:06 From José Luis Villaronga To Everyone:
+	Si
+15:52:47 From José Luis Villaronga To Everyone:
+	No por ahora
+16:00:36 From Ariel Museri To Everyone:
+	pero si hay alguien que esta haciendo commits parciales de front end a desarrollo y yo hago un git merge a front end, me traería sus commits parciales (supongamos que esos commits parciales no terminan de cerrar una funcionalidad)
+16:00:57 From Ariel Museri To Everyone:
+	terminaría siendo medio un garronazo,porque subis un desarrollo ajeno no concluido
+16:07:13 From Ariel Museri To Everyone:
+	pero no es recomendable que antes de hacer commit,justo un minutito antes te bajes los cambios del repo?
+16:08:31 From Ariel Museri To Everyone:
+	oka
+16:09:39 From Ariel Museri To Everyone:
+	claro
+16:33:20 From José Luis Villaronga To Everyone:
+	Dale
+16:33:27 From Felix Valera To Everyone:
+	ok
+16:33:32 From Rodrigo Garcia To Everyone:
+	👍
+16:33:39 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Volvemos 16:45 hs
+16:46:59 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Volvemos ?
+16:48:51 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Hola @Ana Vilariño- Academic assistant , podrias ayudar a @Felix Valera con el ingreso al canal de Discord ?
+16:54:14 From Ana Vilariño- Academic assistant To Gabriel Agustin Gonzalez Romero-871798(direct message):
+	me comunico con felix por privado. Gracias
+16:54:33 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Reacted to "me comunico con feli..." with 🩵
+17:01:08 From José Luis Villaronga To Everyone:
+	La forma en que se ve ese prompt con toda esa info es de ese terminal o en cualquier terminar de Linux se puede configurar ?
+17:01:41 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	git log --oneline --decorate --all --graph
+17:01:48 From Ariel Museri To Everyone:
+	duda,cuando eliminas una rama,la eliminas de manera local y remota?
+17:02:02 From Ariel Museri To Everyone:
+	ok
+17:02:16 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	git push -A
+17:02:44 From Ariel Museri To Everyone:
+	ajaj que miedo
+17:03:26 From José Luis Villaronga To Everyone:
+	No funciono pero no te hagas drama después lo busco
+17:04:13 From José Luis Villaronga To Everyone:
+	Dale
+17:05:24 From José Luis Villaronga To Everyone:
+	Podes usar los alias de bash
+17:08:33 From José Luis Villaronga To Everyone:
+	Buenisimo
+17:08:36 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	git config --local alias.gloga 'git log --oneline --decorate --graph --all'
+17:13:19 From José Luis Villaronga To Everyone:
+	Si perfecto
+17:13:52 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	git config --global alias.gs 'git status'
+17:14:23 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	git config --global alias.glog 'git log'
+17:14:52 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	git config --global alias.gc 'git commit -m'
+17:34:18 From José Luis Villaronga To Everyone:
+	Mas arriba
+17:37:08 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	https://cli.github.com/
+17:45:55 From José Luis Villaronga To Everyone:
+	Si
+17:55:30 From José Luis Villaronga To Everyone:
+	Bien por ahora
+17:58:24 From Suarez Ivan To Everyone:
+	buen finde
+17:58:25 From José Luis Villaronga To Everyone:
+	Buen finde para todos
+17:58:46 From José Luis Villaronga To Everyone:
+	Nos vemos la proxima
+17:59:09 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Muchas gracias por el soporte Ana !
+17:59:16 From Gabriel Agustin Gonzalez Romero-871798 To Ana Vilariño- Academic assistant(direct message):
+	Buen finde, que descanses!
+17:59:20 From Ana Vilariño- Academic assistant To Gabriel Agustin Gonzalez Romero-871798(direct message):
+	buen finde

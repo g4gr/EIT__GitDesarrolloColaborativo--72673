@@ -1,0 +1,32 @@
+# Titulo del commit
+## Estructura del titulo :
+## Tipo + ( Archivos ) : Descripcion de los sucedido, de forma imperativa y hasta 50 caracteres.
+## Ejemplo : DOCS( Apps.txt ) : Agregamos una nueva linea de comandos.
+### Agregar titulo a continuacion
+
+
+# Subtitulo
+# Agregamos una breve descripcion de lo que hicimos.
+
+# ----------
+
+# Tickets
+## Estructura del ticket :
+## Ticketera + Nro. de ticket y tipo de ticket (Bug, Task, etc.) : Descripcion de los sucedido, de forma imperativa y hasta 50 caracteres.
+
+
+
+#-----------
+
+# Responsable o creador.
+# Toda la informacion necesaria.
+
+
+# ----------
+* Problema :
+  # Agregar descripion en forma de lista.
+  - 
+
+* Solucion :
+  # Agregar descripion en forma de lista.
+  -

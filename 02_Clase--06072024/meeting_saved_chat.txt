@@ -1,0 +1,144 @@
+15:01:24 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Hola!
+	Como estan ?
+15:01:30 From Gabriel Agustin Gonzalez Romero-871798 To Everyone:
+	Arrancamos en 4 min
+15:02:15 From Instructor :: Gaby To Ana Vilariño- Academic assistant(direct message):
+	Hola Ana, buenas tardes!
+15:02:28 From Instructor :: Gaby To Ana Vilariño- Academic assistant(direct message):
+	Espero estes muy bien y gracias de antemano por el soporte en la clase de hoy
+15:09:22 From Suarez Ivan To Everyone:
+	buenas profe
+15:09:39 From Engel Alexandro Gil-985952 To Everyone:
+	Si los esucho
+15:10:02 From Ana Vilariño- Academic assistant To Instructor :: Gaby(direct message):
+	Respondiendo a "Espero estes muy b..."
+	
+	Buenas tardes! disculpa la demora, estaba en una presentacion con otro curso. ya te paso el cohost. cualquier cosita escribime. buena jornada
+15:10:05 From Ariel Museri To Everyone:
+	Hola profe
+15:10:06 From Felix Valera To Everyone:
+	si yo también lo escucho
+15:11:01 From Felix Valera To Everyone:
+	profe creo que usted todavía no escucha	yo hablo y no se escucha
+15:11:21 From Suarez Ivan To Everyone:
+	si se escucha, no te escucha el profe
+15:11:37 From Felix Valera To Everyone:
+	claro eso
+15:12:11 From Engel Alexandro Gil-985952 To Everyone:
+	profe, me suele pasar con zoom, y me toca en ocaciones reiniciar el app
+15:12:47 From Felix Valera To Everyone:
+	Profe yo tengo una consulta usted la clases que vemos la sube en algún drive ? por que yo no tengo el link
+15:14:36 From Felix Valera To Everyone:
+	ok porfe lo que pasa que yo tengo un error en mi alummni que me muestra las clases de otro grupo igual creo que tengo que hablarlo con soporte
+15:14:42 From Instructor :: Gaby To Everyone:
+	Replying to "Profe yo tengo una c..."
+	
+	Alumni > Entras al curso > Entras a Accede a las clases
+15:15:10 From Engel Alexandro Gil-985952 To Everyone:
+	disculpe profe, pero podemos ver un breve repaso de los comandos de Git,
+15:15:11 From Instructor :: Gaby To Everyone:
+	Replying to "ok porfe lo que pasa..."
+	
+	Hola @Ana Vilariño- Academic assistant Podrias ayudar a Felix con este tema ?
+	
+	Gracias de antemano!
+15:15:26 From Instructor :: Gaby To Everyone:
+	Replying to "disculpe profe, pero..."
+	
+	Claro, vamos a ello
+15:16:06 From Ana Vilariño- Academic assistant To Instructor :: Gaby(direct message):
+	si, ya le escribi. gracias
+15:17:17 From Instructor :: Gaby To Ana Vilariño- Academic assistant(direct message):
+	Reacted to "si, ya le escribi. g..." with 🩵
+15:33:56 From Engel Alexandro Gil-985952 To Everyone:
+	estoy en una nueva pc y no me reconoce los comandos git
+15:34:27 From Engel Alexandro Gil-985952 To Everyone:
+	sii
+15:35:52 From José Luis Villaronga To Everyone:
+	git init
+15:42:19 From Ariel Museri To Everyone:
+	profe,comentaste que al principio hacemos un git add para llevar el archivo a la staging area,y luego otro commit para pasar al working area, pero no veo que hayamos hecho dos commit add
+15:43:04 From Ariel Museri To Everyone:
+	git add quise decir
+15:43:17 From Ariel Museri To Everyone:
+	dale
+15:59:20 From José Luis Villaronga To Everyone:
+	Con "git show" y "git log" se ve el historial de commits, se puede ver el historial de cambios que se hicieron hasta el working área y no fueron al coomit área ?
+16:00:18 From José Luis Villaronga To Everyone:
+	Si lo que estuvo
+16:01:52 From José Luis Villaronga To Everyone:
+	Se puede pero lo ultimo ?
+16:01:57 From José Luis Villaronga To Everyone:
+	Con diff ?
+16:07:04 From José Luis Villaronga To Everyone:
+	Registro el final de linea
+16:08:41 From Ariel Museri To Everyone:
+	igual normalmente la diferencia entre los archivos lo ves en el repo pero desde la web no? porque si es un archivo enorme te volves loco
+16:09:27 From José Luis Villaronga To Everyone:
+	Pero siempre en dirección hacia atras
+16:11:26 From Ariel Museri To Everyone:
+	la estábamos esperando
+16:34:51 From José Luis Villaronga To Everyone:
+	Si
+16:34:52 From Ariel Museri To Everyone:
+	si
+16:35:16 From Ariel Museri To Everyone:
+	movistaaaaaaaaaaaaar
+16:38:31 From Ariel Museri To Everyone:
+	git merge?
+16:55:41 From Suarez Ivan To Everyone:
+	no estas grabando
+16:58:26 From Instructor :: Gaby To Everyone:
+	Acceso a Discord > https://discord.gg/AxFw3vMt
+16:58:40 From José Luis Villaronga To Everyone:
+	Dale
+16:58:47 From Ariel Museri To Everyone:
+	dale
+16:58:51 From Instructor :: Gaby To Everyone:
+	volvemos a las 17:10 hs.
+17:21:31 From José Luis Villaronga To Everyone:
+	Si
+17:22:38 From Ariel Museri To Everyone:
+	eso no pasa en la realidad jaja los .config
+17:24:26 From Instructor :: Gaby To Everyone:
+	Repositorio de Git Ignores : https://github.com/github/gitignore
+17:27:34 From Ariel Museri To Everyone:
+	si
+17:27:46 From José Luis Villaronga To Everyone:
+	Y PHP
+17:30:23 From Ariel Museri To Everyone:
+	y para que te sirve hacer eso?
+17:30:40 From Ariel Museri To Everyone:
+	lo podrias clonar para eso
+17:30:49 From Ariel Museri To Everyone:
+	flork
+17:31:27 From Ariel Museri To Everyone:
+	entiendo
+17:32:00 From Ariel Museri To Everyone:
+	pero al clonarlo,no bajas los cambios del momento actual?
+17:32:02 From Ariel Museri To Everyone:
+	como una foto
+17:33:03 From Ariel Museri To Everyone:
+	si
+17:51:01 From José Luis Villaronga To Everyone:
+	Si
+18:00:01 From José Luis Villaronga To Everyone:
+	Bien por ahora
+18:00:30 From José Luis Villaronga To Everyone:
+	Buen finde a todos
+18:00:35 From Ariel Museri To Everyone:
+	Reacted to "Buen finde a todos" with 👏🏽
+18:00:35 From Suarez Ivan To Everyone:
+	chau profe, buen finde
+18:00:56 From Juan Lin-965548 To Everyone:
+	buen finde a todos
+18:00:56 From Engel Alexandro Gil-985952 To Everyone:
+	Saludos, bye
+18:00:57 From Federico Viturro-946879 To Everyone:
+	chauu
+18:01:16 From Instructor :: Gaby To Ana Vilariño- Academic assistant(direct message):
+	gracias Ana por tu soporte!
+	Buen finde !
+18:01:18 From Instructor :: Gaby To Ana Vilariño- Academic assistant(direct message):
+	Saludos
